@@ -6,6 +6,7 @@ public class Test1 {
 		System.out.println("ola github!");
 		System.out.println("Bem-Vindo ao github");
 		System.out.println("Alteração feita pelo eclipse");
+		System.out.println("Alteração feita pelo github");
 	}
 
 }
