@@ -8,6 +8,8 @@ public class Test1 {
 		System.out.println("Alteração feita pelo eclipse");
 		System.out.println("Alteração feita pelo github");
 		System.out.println("Alteração feita pelo eclipse, numero 2");
+		System.out.println("Alteração feita pelo github, numero 2");
+		
 	}
 
 }
